@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update>
+    <sys_ui_section caption="My Cool Idea" section_id="7b0fe3720f510300e52e4d9ce1050e7c" sys_domain="global" table="x_162666_innovate_innovate" version="3" view="advanced">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_short_description</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-23 12:00:36</sys_created_on>
+            <sys_id>df2f27720f510300e52e4d9ce1050ed7</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Cool Idea" display_value="My Cool Idea" name="x_162666_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">7b0fe3720f510300e52e4d9ce1050e7c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-23 12:00:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_implemented</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-23 12:00:36</sys_created_on>
+            <sys_id>532f27720f510300e52e4d9ce1050ed8</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="My Cool Idea" display_value="My Cool Idea" name="x_162666_innovate_innovate" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">7b0fe3720f510300e52e4d9ce1050e7c</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-23 12:00:36</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>My Cool Idea</caption>
+            <header>false</header>
+            <name>x_162666_innovate_innovate</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2017-09-23 12:00:05</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>7b0fe3720f510300e52e4d9ce1050e7c</sys_id>
+            <sys_mod_count>1</sys_mod_count>
+            <sys_name>My Cool Idea</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="Innovate" source="x_162666_innovate">f23fdf3a0f110300e52e4d9ce1050eb1</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="Innovate">f23fdf3a0f110300e52e4d9ce1050eb1</sys_scope>
+            <sys_update_name>sys_ui_section_7b0fe3720f510300e52e4d9ce1050e7c</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2017-09-23 12:00:36</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
